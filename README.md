@@ -1,9 +1,5 @@
 # HiEDL: Hierarchical Evidential Deep Learning for Uncertainty-Aware Tumor Segmentation
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MICCAI-2026-1f6feb.svg" alt="MICCAI 2026">
-</p>
-
 > **Accepted at MICCAI 2026** 🎉
 
 Official implementation of **HiEDL: Hierarchical Evidential Deep Learning for Uncertainty-Aware Tumor Segmentation from 3D CT via Boundary Regularization** (MICCAI 2026).
