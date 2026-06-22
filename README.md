@@ -156,16 +156,6 @@ python test.py --dataset pancreas --checkpoint /path/to/checkpoint.pth
 
 ## Citation
 
-If you find this work useful, please consider citing:
-
-```bibtex
-@inproceedings{park2025hiedl,
-  title     = {HiEDL: Hierarchical Evidential Deep Learning for Uncertainty-Aware Tumor Segmentation from 3D CT via Boundary Regularization},
-  author    = {Park, Younghyun and Jeong, Jin Gyo and Yang, Sejung},
-  booktitle = {Medical Image Computing and Computer Assisted Intervention (MICCAI)},
-  year      = {2025}
-}
-```
 
 ---
 
